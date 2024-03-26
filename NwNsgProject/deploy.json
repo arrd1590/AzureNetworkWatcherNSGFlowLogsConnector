@@ -47,7 +47,7 @@
         },
         "githubRepoURL": {
             "type": "string",
-            "defaultValue": "https://github.com/PaloAltoNetworks/AzureNetworkWatcherNSGFlowLogsConnector.git"
+            "defaultValue": "https://github.com/arrd1590/AzureNetworkWatcherNSGFlowLogsConnector.git"
         },
         "githubRepoBranch": {
             "type": "string",
