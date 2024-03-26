@@ -208,6 +208,9 @@
                         "RepoUrl": "[parameters('githubRepoURL')]",
                         "branch": "[parameters('githubRepoBranch')]",
                         "IsManualIntegration": true
+                    },
+                    "tags": { 
+                        "Project": "PANW-XDR", "Sub-Project": "PANW-Cortex-POC", "Owner": "Firstname Lastname" 
                     }
                 }
             ]
